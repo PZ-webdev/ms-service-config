@@ -1,1 +1,8 @@
-# ms-service-config
+
+## Confuguration for services
+
+- [Product Service]()
+- [Order Service]()
+- [Inventory Service]()
+
+---
